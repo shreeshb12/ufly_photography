@@ -1,6 +1,9 @@
 body{
     background-color: black;
 }
+*{
+    transition: all 1s linear;
+}
 preloader{
     height: 95vh;
     width: 95vw;
